@@ -1,0 +1,29 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(252, 255, 226);
+}
+
+    h1{
+        color: rgb(5, 2, 2);
+        text-align: center;
+    }
+    .calc-beer-input{
+
+        border-style: solid;
+        border-width: 1px;
+    }
+    
+    .containerpreco1, .containerpreco2 { /* As duas classes combinadas na mesma linha*/
+        text-align: center;
+    }
+
+
+    #welcome{
+        background-color: rgb(235, 152, 0);
+    }
+
